@@ -1,4 +1,4 @@
-# LLM-Notebooks
+# LLM-Notebooks - Llama3.1 ChatBot
 
 This repository contains various scripts about LLMs in local system
 
